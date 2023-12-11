@@ -1,0 +1,22 @@
+body{
+    background-color:rebeccapurple;
+    max-width: 500px;
+    margin: 0 auto;
+}
+input{
+    width: 100%;
+    display: block;
+    margin: 10px;
+    padding: 10px;
+}
+.btn{
+    width: 100px;
+    background-color: rgb(18, 154, 196);
+    font-weight: bold;
+    font-size: 15px;
+    color: rgb(181, 14, 223);
+
+    margin: 0 auto;
+    max-width: 500px;
+}
+

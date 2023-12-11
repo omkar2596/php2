@@ -1,0 +1,34 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+  /* font-family: 'Dancing Script', cursive; */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.slider{
+    height: 90vh;
+    margin-bottom: 120px;
+    background-image: linear-gradient(to right,hwb(206 14% 5%),white,hwb(206 14% 5%));
+
+}
+.carousel-item img{
+  width: 100%;
+  height: 90vh;
+  object-fit: cover;
+}
+.navbar-brand{
+    font-family:  'Dancing Script';
+    font-size: 40px;
+}
+.navbar-nav{
+    margin-left: auto; /*  header:left */
+}
+.navbar-nav li a{
+ font-size: 20px;
+ font-family:cursive ;
+}
+.featureTitle{
+    font-family:  cursive;
+}
